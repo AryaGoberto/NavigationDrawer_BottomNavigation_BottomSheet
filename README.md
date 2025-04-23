@@ -13,6 +13,9 @@ This project demonstrates the integration of **Navigation Drawer**, **Bottom Nav
 - **Kotlin**: A modern programming language that is used for Android development.
 - **Jetpack Compose**: A UI toolkit for building native Android UIs with a declarative approach.
 - **Material 3**: The design system used to style and organize the app's UI components.
+  
+## Demo Video
+![Demo Video](https://github.com/AryaGoberto/NavigationDrawer_BottomNavigation_BottomSheet/blob/main/app/src/main/Demo/Screen_recording_20250423_113521.gif)
 
 ## Installation
 
