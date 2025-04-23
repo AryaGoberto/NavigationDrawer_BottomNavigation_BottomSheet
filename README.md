@@ -15,8 +15,7 @@ This project demonstrates the integration of **Navigation Drawer**, **Bottom Nav
 - **Material 3**: The design system used to style and organize the app's UI components.
   
 ## Demo Video
-![Demo Video](https://github.com/AryaGoberto/NavigationDrawer_BottomNavigation_BottomSheet/blob/main/app/src/main/Demo/Screen_recording_20250423_113521.gif)
-
+<img src="https://github.com/AryaGoberto/NavigationDrawer_BottomNavigation_BottomSheet/blob/main/app/src/main/Demo/Screen_recording_20250423_113521.gif" width="250" />
 ## Installation
 
 To run this project locally on your machine, follow these steps:
