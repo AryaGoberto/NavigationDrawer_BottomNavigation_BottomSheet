@@ -263,6 +263,7 @@ fun LearnNavBotSheet() {
                 startDestination = Screens.Home.screens){
                 composable(Screens.Home.screens) { Home() }
                 composable(Screens.Profile.screens) { Profile() }
+                composable(Screens.Search.screens){ Search() }
                 composable(Screens.Notification.screens) { Notification() }
                 composable(Screens.Post.screens) { Post() }
                 composable(Screens.Settings.screens) { Settings() }
