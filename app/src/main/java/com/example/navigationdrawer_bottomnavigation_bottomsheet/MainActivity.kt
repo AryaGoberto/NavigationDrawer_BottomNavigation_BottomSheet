@@ -282,13 +282,13 @@ fun LearnNavBotSheet() {
                             popUpTo(0)
                         }
                     }
-                    BottomSheetItem(icon = Icons.Default.Star, title = "Add a Story") {
+                    BottomSheetItem(icon = Icons.Default.Star, title = "Favorites") {
                        Toast.makeText(context, "Story", Toast.LENGTH_SHORT).show()
                     }
-                    BottomSheetItem(icon = Icons.Default.PlayArrow, title = "Add a Story") {
+                    BottomSheetItem(icon = Icons.Default.PlayArrow, title = "Create a Reel") {
                         Toast.makeText(context, "Reels", Toast.LENGTH_SHORT).show()
                     }
-                    BottomSheetItem(icon = Icons.Default.Favorite, title = "Add a Story") {
+                    BottomSheetItem(icon = Icons.Default.Favorite, title = "Your Favorites") {
                         Toast.makeText(context, "Live", Toast.LENGTH_SHORT).show()
                     }
                 }
